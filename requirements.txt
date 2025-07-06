@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pytesseract
+opencv-python
+pillow
+motor
+python-multipart
+jinja2
+spacy 
